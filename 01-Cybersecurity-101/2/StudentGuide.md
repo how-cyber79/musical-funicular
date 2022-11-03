@@ -76,7 +76,7 @@ In this first activity, we will examine various **attack** strategies that cyber
 
 ### 03. Activity: Security Task #1 - Attacking the Wall
 
-- [Activity File: Security Task #1 - Attacking the Wall](Activities/03_Attacking_the_Wall/Unsolved/Readme.md)
+- [Activity File: Security Task #1 - Attacking the Wall](Activities/03_Attacking_The_Wall/Unsolved/Readme.md)
 
 
 ### 05. Security Task #2 - Defending the Wall
